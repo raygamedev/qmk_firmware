@@ -1,4 +1,5 @@
 #pragma once
+#define MASTER_RIGHT
 
 #define TAPPING_TERM 180
 #define USB_POLLING_INTERVAL_MS 1
